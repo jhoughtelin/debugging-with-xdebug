@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"xdebug": {
+			"path_mapping": {
+				"/var/www/public" : "/Volumes/CODE/projects/xdebug/public",
+			},
+			"url": "http://xdebug.dev/",
+			"super_global": true,
+			"close_on_stop": true
+		}
+	}
+}
